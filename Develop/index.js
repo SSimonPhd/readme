@@ -58,7 +58,7 @@ const questions = [
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     if (err) {
-      console.log(error, "You must resubmit.");
+      console.log(error, "Try again.");
     }
   });
 }

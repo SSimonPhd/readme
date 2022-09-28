@@ -6,13 +6,13 @@ function generateMarkdown(answers, licenseInfo) {
 
 ## Table of Contents
 
-- [Description](#description)
-- [Installation Instructions](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contribute)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Description](#description);
+- [Installation Instructions](#installation);
+- [Usage](#usage);
+- [License](#license);
+- [Contributing](#contribute);
+- [Tests](#tests);
+- [Questions](#questions);
 
 ## Description
 
@@ -28,7 +28,7 @@ function generateMarkdown(answers, licenseInfo) {
 
 ## License
 
-  ![badge](https://img.shields.io/badge/License-${answers.license}-blue)
+  ![badge](https://img.shields.io/badge/License-${answers.license}-blue);
 
   ${licenseInfo}
 
@@ -44,8 +44,6 @@ function generateMarkdown(answers, licenseInfo) {
 
   Have questions or feedback?\n
   Email: ${answers.email}\n
-  GitHub Profile: [${answers.git}](https://github.com/${answers.git}/)\n
-  GitHub Repository: [${answers.git}](https://github.com/${answers.git}/)
-	`;
+  GitHub Profile: [${answers.git}](https://github.com/${answers.git}/)`;
 }
 module.exports = generateMarkdown;
