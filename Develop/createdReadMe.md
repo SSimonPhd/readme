@@ -26,7 +26,7 @@
 
 ## License
 
-  ![badge](https://img.shields.io/badge/License-GNU-blue);
+  ![badge](https://img.shields.io/badge/License-GNU-blue)
 
   GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 		Copyright (C) 2007 Free Software Foundation, Inc. (https://www.gnu.org/licenses/gpl-3.0.en.html)

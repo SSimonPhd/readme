@@ -28,7 +28,7 @@ function generateMarkdown(answers, licenseInfo) {
 
 ## License
 
-  ![badge](https://img.shields.io/badge/License-${answers.license}-blue);
+  ![badge](https://img.shields.io/badge/License-${answers.license}-blue)
 
   ${licenseInfo}
 
