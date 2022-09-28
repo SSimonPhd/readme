@@ -6,13 +6,13 @@ function generateMarkdown(answers, licenseInfo) {
 
 ## Table of Contents
 
-- [Description](#description);
-- [Installation Instructions](#installation);
-- [Usage](#usage);
-- [License](#license);
-- [Contributing](#contribute);
-- [Tests](#tests);
-- [Questions](#questions);
+- [Description](#description)
+- [Installation Instructions](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 
