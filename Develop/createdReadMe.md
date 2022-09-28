@@ -1,6 +1,6 @@
 # README
 
-![badge](https://img.shields.io/badge/License-MIT-blue)
+![badge](https://img.shields.io/badge/License-Apache-blue)
 
 ## Table of Contents
 
@@ -8,13 +8,13 @@
 - [Installation Instructions](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributions](#contributions)
+- [Contributing](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Description
 
-  Readme generator
+  README generator
 
 ## Installation
 
@@ -26,14 +26,14 @@
 
 ## License
 
-  ![badge](https://img.shields.io/badge/License-MIT-blue)
+  ![badge](https://img.shields.io/badge/License-Apache-blue)
 
-  MIT License Copyright (c) 2022 SSimonPhd
-    (https://mit-license.org/)
+  Copyright 2022 SSimonPhd
+		(https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Contributing
 
-	GitHub Profile of Contributors:[None](https://github.com/None/)
+	None
 
 ## Tests
 

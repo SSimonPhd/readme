@@ -10,7 +10,7 @@ function generateMarkdown(answers, licenseInfo) {
 - [Installation Instructions](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributions](#contributions)
+- [Contributing](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -34,7 +34,7 @@ function generateMarkdown(answers, licenseInfo) {
 
 ## Contributing
 
-	GitHub Profile of Contributors:[${answers.contributions}](https://github.com/${answers.contributions}/)
+	${answers.contribute}
 
 ## Tests
 
