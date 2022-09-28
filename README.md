@@ -17,7 +17,7 @@ Build a professional README generator with Node & Inquirer:
 
 - Screenshot
 
-Coming soon!
+![image](https://user-images.githubusercontent.com/60651145/192745361-33defb06-c2f1-460e-ba51-ecc00cbf78b6.png)
 
 - URL to Video Demo
 
