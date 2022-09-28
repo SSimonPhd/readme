@@ -1,3 +1,27 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Assignment:
+
+Build a professional README generator with Node & Inquirer:
+
+1. Cloned starter code
+1. Created repo
+1. Npm init to generate json files
+1. Installed inquirer
+1. Coded index, markdown, and license js files
+1. Tested and debugged
+1. Uploaded files to repo
+1. Created video demo with Screencastify
+1. Uploaded video to Google Drive
+
+- Screenshot
+
+Coming soon!
+
+- URL to Video Demo
+
+Coming soon!
+
+- URL to GitHub Repo
+
+https://github.com/SSimonPhd/readme
