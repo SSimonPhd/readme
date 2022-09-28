@@ -11,8 +11,9 @@ Build a professional README generator with Node & Inquirer:
 1. Coded index, markdown, and license js files
 1. Tested and debugged
 1. Uploaded files to repo
-1. Created video demo with Screencastify
-1. Uploaded video to Google Drive
+1. Recorded video demo with Screencastify
+1. Hosted video on Google Drive
+1. Updated README
 
 - Screenshot
 
