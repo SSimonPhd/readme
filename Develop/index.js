@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
-const getLicense = require("./utils/getLicense");
+const getLicense = require("./utils/getLicence");
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -14,43 +14,43 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "Project description:",
+    message: "Project description: ",
   },
   {
     type: "input",
     name: "installation",
-    message: "Installation instructions:",
+    message: "Installation instructions: ",
   },
   {
     type: "input",
     name: "usage",
-    message: "Usage information:",
+    message: "Usage information: ",
   },
   {
     type: "input",
     name: "contributions",
-    message: "Contribution guidelines:",
+    message: "Contribution guidelines: ",
   },
-  {
+	{
     type: "input",
     name: "tests",
-    message: "Test instructions:",
+    message: "Test instructions: ",
   },
-  {
+	{
     type: "list",
     name: "license",
-    message: "Select license for application:",
+    message: "Select license:",
     choices: ["Apache", "MIT", "GNU GPLv3"],
   },
-  {
+	{
     type: "input",
     name: "git",
-    message: "GitHub username:",
+    message: "GitHub username: ",
   },
   {
     type: "input",
     name: "email",
-    message: "Your email address:",
+    message: "Email address: ",
   },
 ];
 
@@ -58,11 +58,10 @@ const questions = [
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     if (err) {
-      console.log(error, "Resubmit.");
+      console.log(error, "You must resubmit.");
     }
   });
 }
-
 
 // TODO: Create a function to initialize app
 const init = () => {

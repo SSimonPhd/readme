@@ -7,7 +7,7 @@ function generateMarkdown(answers, licenseInfo) {
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
+- [Installation Instructions](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributions](#contributions)
@@ -32,9 +32,9 @@ function generateMarkdown(answers, licenseInfo) {
 
   ${licenseInfo}
 
-## Contributions
+## Contributing
 
-GitHub Profile of Contributors:[${answers.contributions}](https://github.com/${answers.contributions}/)
+	GitHub Profile of Contributors:[${answers.contributions}](https://github.com/${answers.contributions}/)
 
 ## Tests
 
@@ -43,10 +43,9 @@ GitHub Profile of Contributors:[${answers.contributions}](https://github.com/${a
 ## Questions
 
   Have questions or feedback?\n
-  Email:${answers.email}\n
-  Let's connect:\n
-  GitHub Profile:[${answers.git}](https://github.com/${answers.git}/)\n
-  GitHub Repository:[${answers.git}](https://github.com/${answers.git}/)
-  `;
+  Email: ${answers.email}\n
+  GitHub Profile: [${answers.git}](https://github.com/${answers.git}/)\n
+  GitHub Repository: [${answers.git}](https://github.com/${answers.git}/)
+	`;
 }
 module.exports = generateMarkdown;
