@@ -1,6 +1,6 @@
-# x
+# README
 
-![badge](https://img.shields.io/badge/License-Apache-blue)
+![badge](https://img.shields.io/badge/License-MIT-blue)
 
 ## Table of Contents
 
@@ -14,38 +14,38 @@
 
 ## Description
 
-  x
+  Readme generator
 
 ## Installation
 
-  x
+  npm install inquirer
 
 ## Usage
 
-  x
+  Autogenerate a professional README
 
 ## License
 
-  ![badge](https://img.shields.io/badge/License-Apache-blue)
+  ![badge](https://img.shields.io/badge/License-MIT-blue)
 
-  Copyright 2022 x
-		(https://www.apache.org/licenses/LICENSE-2.0)
+  MIT License Copyright (c) 2022 SSimonPhd
+    (https://mit-license.org/)
 
 ## Contributing
 
-	GitHub Profile of Contributors:[x](https://github.com/x/)
+	GitHub Profile of Contributors:[None](https://github.com/None/)
 
 ## Tests
 
-  x
+  None
 
 ## Questions
 
   Have questions or feedback?
 
-  Email: x
+  Email: simon_phd@proton.me
 
-  GitHub Profile: [x](https://github.com/x/)
+  GitHub Profile: [SSimonPhd](https://github.com/SSimonPhd/)
 
-  GitHub Repository: [x](https://github.com/x/)
+  GitHub Repository: [SSimonPhd](https://github.com/SSimonPhd/)
 	
