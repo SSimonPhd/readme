@@ -21,7 +21,7 @@ Build a professional README generator with Node & Inquirer:
 
 - URL to Video Demo
 
-https://drive.google.com/file/d/1IaZXjOXwZ9ou_yPnhjDsCGTRVbFyWNUS/view
+https://drive.google.com/file/d/1IaZXjOXwZ9ou_yPnhjDsCGTRVbFyWNUS/view?usp=sharing
 
 - URL to GitHub Repo
 
