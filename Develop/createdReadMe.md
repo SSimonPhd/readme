@@ -14,7 +14,7 @@
 
 ## Description
 
-  README generator
+  README Generator
 
 ## Installation
 
